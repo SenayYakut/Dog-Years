@@ -6,3 +6,22 @@ Here’s how you convert your age from “human years” to “dog years”:
 The first two years of a dog’s life count as 10.5 dog years each.
 Each year following equates to 4 dog years.
 Before you start doing the math in your head, let a computer take care of it! With your knowledge of math operators and variables, use JavaScript to convert your human age into dog years.
+
+## Installation
+
+Install the project locally
+```bash
+
+```
+
+## Usage
+Go to 
+
+
+## Contributing
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+Please make sure to update tests as appropriate.
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)

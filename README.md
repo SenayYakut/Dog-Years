@@ -11,6 +11,7 @@ Before you start doing the math in your head, let a computer take care of it! Wi
 
 Install the project locally
 ```bash
+https://github.com/SenayYakut/Dog-Years.git
 
 ```
 
